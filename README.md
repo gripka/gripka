@@ -13,4 +13,4 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
-## Atualmente cursando Analise de Desenvolvimento de Sistemas e outras formações/cursos através da Alura.
+#### Atualmente cursando Analise de Desenvolvimento de Sistemas e outras formações/cursos através da Alura.
