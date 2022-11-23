@@ -2,8 +2,8 @@
 ## Olá, me chamo Gabriel Ripka ✋
 
 [![Portfolio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://)](www.linkedin.com/in/gripka)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gripka)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/gripkinha)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gripka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gripkinha)
 
 ![Gripka GitHub](https://github-readme-stats.vercel.app/api?username=gripka&show_icons=true&theme=tokyonight&locale=pt-br)
 
