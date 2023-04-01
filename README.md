@@ -8,10 +8,10 @@
 
 ![Gripka GitHub](https://github-readme-stats.vercel.app/api?username=gripka&show_icons=true&theme=tokyonight&locale=pt-br)
 
-## Tecnologias 
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="GripkaPython" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="GripkaPandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+</div>
 
 #### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. 
 
