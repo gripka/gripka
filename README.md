@@ -11,4 +11,5 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. Ainda não tive a oportunidade de trabalhar profissionalmente como programador, mas estou sempre buscando aprender novas habilidades e me aperfeiçoar na área. 
+#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. 
+
