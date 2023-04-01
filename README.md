@@ -13,5 +13,7 @@
   <img align="center" alt="GripkaPandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 </div>
 
-#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. 
+#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. 
+
+Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. 
 
