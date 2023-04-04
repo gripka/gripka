@@ -1,9 +1,9 @@
 >## Gripka 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GripkaPython" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-  <img align="center" alt="GripkaPandas" height="60" width="70" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
-  <img align="center" alt="GripkaDjango" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
+  <img align="center" alt="GripkaPython" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="GripkaPandas" height="50" width="60" src="https://github.com/gripka/icones_skill/blob/main/icones/Pandas.svg">
+  <img align="center" alt="GripkaDjango" height="50" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
 
 </div>
 
