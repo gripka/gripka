@@ -1,10 +1,10 @@
 >## Gripka 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GripkaPython" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="GripkaPandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="GripkaJupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="GripkaJupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="GripkaPython" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="GripkaPandas" height="60" width="70" src="https://github.com/gripka/icones_skill/blob/main/icones/pandas.svg">
+  <img align="center" alt="GripkaDjango" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg">
+
 </div>
 
   ##
