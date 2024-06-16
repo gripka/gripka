@@ -17,4 +17,3 @@
 
 #### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. 
 
-Experiência em desenvolver projetos próprios utilizando Python e suas tecnologias, projetos esses, que estão disponíveis no meu GitHub. 
