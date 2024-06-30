@@ -15,5 +15,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PwvzkGx)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gripka)
 
-#### Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira com interesse pela área de backend. 
-
+#### Dev Intern | Back-end | Python | Django | Java | SQL
